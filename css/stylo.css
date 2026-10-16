@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1a1a1a;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+main {
+    width: 100%;
+    max-width: 1360px;
+    background-color: #0d3b0d;
+    border: 3px solid black;
+    overflow: hidden;
+}
+
+header {
+    width: 100%;
+    height: 120px;
+    background-color: #1a6b1a;
+    border-bottom: 3px solid black;
+}
+
+.caja1 {
+    width: 300px;
+    height: 100px;
+    background-color: #2e8b2e;
+    border: 2px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.caja2 {
+    width: 720px;
+    height: 100px;
+    background-color: #3da83d;
+    border: 2px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.caja3 {
+    width: 290px;
+    height: 100px;
+    background-color: #2e8b2e;
+    border: 2px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+nav {
+    width: 100%;
+    height: 60px;
+    background-color: #1a6b1a;
+    border-bottom: 3px solid black;
+}
+
+.menu {
+    width: 262px;
+    height: 40px;
+    background-color: #4caf4c;
+    border: 2px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.sec1 {
+    width: 100%;
+    height: 180px;
+    background-color: #1a6b1a;
+    border-bottom: 3px solid black;
+}
+
+.grande {
+    width: 500px;
+    height: 140px;
+    background-color: #2e8b2e;
+    border: 2px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.sec2 {
+    width: 100%;
+    height: 180px;
+    background-color: #1a6b1a;
+    border-bottom: 3px solid black;
+}
+
+.card {
+    width: 420px;
+    height: 140px;
+    background-color: #3da83d;
+    border: 2px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.sec3 {
+    width: 100%;
+    height: 80px;
+    background-color: #1a6b1a;
+    border-bottom: 3px solid black;
+}
+
+.info {
+    width: 660px;
+    height: 50px;
+    background-color: #4caf4c;
+    border: 2px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.sec4 {
+    width: 100%;
+    height: 70px;
+    background-color: #1a6b1a;
+    border-bottom: 3px solid black;
+}
+
+.mini {
+    width: 315px;
+    height: 40px;
+    background-color: #66bb66;
+    border: 2px solid black;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+/* ── FOOTER ── */
+footer {
+    width: 100%;
+    height: 60px;
+    background-color: #1a6b1a;
+    clear: both;
+}
